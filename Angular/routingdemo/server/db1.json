@@ -1,0 +1,60 @@
+{
+  "depts": [
+    {},
+    {
+      "id": "1",
+      "dname": "HR",
+      "country": "India"
+    },
+    {
+      "id": "2",
+      "dname": "Admin",
+      "country": "UK"
+    },
+    {
+      "id": "12",
+      "dname": "fdf",
+      "country": "dfd"
+    },
+    {
+      "id": "102",
+      "dname": "electrical",
+      "country": "India"
+    },
+    {
+      "id": "405",
+      "dname": "Mechincal",
+      "country": "UAE"
+    },
+    {
+      "id": "809",
+      "dname": "civil dep",
+      "country": "nepal"
+    },
+    {
+      "id": "112",
+      "dname": "comp",
+      "country": "india"
+    },
+    {
+      "id": "555",
+      "dname": "anktit deprts",
+      "country": "germany123"
+    },
+    {
+      "id": "666",
+      "dname": "anmkit dept",
+      "country": "russia123"
+    },
+    {
+      "id": "0gg",
+      "dname": "ss",
+      "country": "ss"
+    },
+    {
+      "id": "777",
+      "dname": "Mechincaljoyti",
+      "country": "india"
+    }
+  ]
+}
